@@ -21,6 +21,22 @@ body {
   user-select: none;
 }
 
+.attribution {
+  font-size: 15px;
+  text-align: center;
+  font-weight: 700;
+  font-family: inherit;
+  position: relative;
+  top: 20px;
+  letter-spacing: 1.2px;
+  z-index: -1;
+}
+
+.attribution a {
+  color: var(--Orange);
+  text-decoration: none;
+}
+
 @media only screen and (max-width:900px) {
   body {
     padding: 5px 25px;

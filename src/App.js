@@ -1,8 +1,8 @@
 import { useState } from "react";
-import Header from "./comopnents/Header";
-import Main from "./comopnents/Main";
-import Slideshow from "./comopnents/Slideshow";
-import SlideshowMobile from "./comopnents/SlideshowMobile";
+import Header from "./components/Header";
+import Main from "./components/Main";
+import Slideshow from "./components/Slideshow";
+import SlideshowMobile from "./components/SlideshowMobile";
 import styled from "styled-components";
 
 function App() {
@@ -30,6 +30,13 @@ function App() {
         visible={carousel}
         setCarousel={setCarousel}
       />
+      <div class="attribution">
+        Challenge by{" "}
+        <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">
+          Frontend Mentor
+        </a>
+        . Coded by <a href="#">Mukund Bhudia</a>.
+      </div>
     </div>
   );
 }
