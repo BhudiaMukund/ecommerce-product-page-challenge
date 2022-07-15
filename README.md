@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/BhudiaMukund/ecommerce-product-page-challenge](https://github.com/BhudiaMukund/ecommerce-product-page-challenge)
 - Live Site URL: [https://ecommerce-landing-page-challenge.netlify.app/](https://ecommerce-landing-page-challenge.netlify.app/)
 
 ## My process
